@@ -1,0 +1,9 @@
+[submodule "CMDA_4654-Intermediate_Data_Analytics_And_ML"]
+	path = CMDA_4654-Intermediate_Data_Analytics_And_ML
+	url = https://github.com/CMobley7/CMDA_4654-Intermediate_Data_Analytics_And_ML.git
+[submodule "Data_Analyst_Nanodegree"]
+	path = Data_Analyst_Nanodegree
+	url = https://github.com/CMobley7/Data_Analyst_Nanodegree.git
+[submodule "ECE_5554-Computer_Vision"]
+	path = ECE_5554-Computer_Vision
+	url = https://github.com/CMobley7/ECE_5554-Computer_Vision.git
